@@ -1,0 +1,1 @@
+BEST HYPERPARAMS - num_hidden: 512, washout: 50, reg_lambda: 0 omega_x: 0.5, omega_b: 1, rho: 0.99
