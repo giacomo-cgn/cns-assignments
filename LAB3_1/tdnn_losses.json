@@ -1,0 +1,17 @@
+[
+    {
+        "configuration": "validation",
+        "epoch": "2",
+        "loss": "0.001118559273891151"
+    },
+    {
+        "configuration": "retrain",
+        "epoch": "3",
+        "loss": "0.0010323295136913657"
+    },
+    {
+        "configuration": "test",
+        "epoch": "",
+        "loss": "0.001003677840344607"
+    }
+]
